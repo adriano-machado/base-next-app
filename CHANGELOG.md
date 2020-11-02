@@ -1,0 +1,15 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [0.2.0](https://github.com/adriano-machado/base-next-app/compare/v0.1.53...v0.2.0) (2020-11-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **home-page:** Yeh
+
+### Features
+
+* **home-page:** Using template ([2ea0c52](https://github.com/adriano-machado/base-next-app/commit/2ea0c526f1c74362be03d8bf4869e77da90cd926))
+* remove commit lint ([21024bb](https://github.com/adriano-machado/base-next-app/commit/21024bbadd77f927569bacfd5b8b2036d766a397))
