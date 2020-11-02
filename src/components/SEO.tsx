@@ -29,6 +29,7 @@ export default function SEO({
       <meta httpEquiv="x-ua-compatible" content="IE=edge,chrome=1" />
       <meta name="MobileOptimized" content="320" />
       <meta name="HandheldFriendly" content="True" />
+
       <meta name="theme-color" content="#121214" />
 
       <meta name="msapplication-TileColor" content="#121214" />
