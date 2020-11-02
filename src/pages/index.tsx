@@ -8,7 +8,7 @@ const Home: React.FC = () => {
   return (
     <Container>
       <SEO
-        title="teste"
+        title="Home"
         showTitleSuffix
         showIndexPage
         description="Teste SEO"
