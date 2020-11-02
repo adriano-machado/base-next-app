@@ -11,9 +11,8 @@
   },
   "husky": {
     "hooks": {
-      "pre-push": "yarn release",
-      "post-commit": "git push --follow-tags"
-    }
+      "pre-push": "yarn release"
+        }
   },
   "dependencies": {
     "next": "^10.0.0",
