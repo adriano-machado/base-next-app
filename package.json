@@ -3,17 +3,12 @@
   "version": "0.4.0",
   "private": true,
   "scripts": {
-    "postinstall": "husky install",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "release": "standard-version"
   },
-  "husky": {
-    "hooks": {
-      "pre-push": "yarn release"
-    }
-  },
+
   "dependencies": {
     "next": "^10.0.0",
     "next-images": "^1.4.1",
