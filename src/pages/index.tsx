@@ -2,6 +2,7 @@ import React from 'react'
 import SEO from '@/components/SEO'
 
 import { Container } from '../styles/pages/Home'
+
 import { GetServerSideProps } from 'next'
 
 const Home: React.FC = () => {
