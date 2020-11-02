@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.52](https://github.com/adriano-machado/base-next-app/compare/v0.1.46...v0.1.52) (2020-11-02)
+
 ### [0.1.51](https://github.com/adriano-machado/base-next-app/compare/v0.1.46...v0.1.51) (2020-11-02)
 
 ### [0.1.50](https://github.com/adriano-machado/base-next-app/compare/v0.1.46...v0.1.50) (2020-11-02)
