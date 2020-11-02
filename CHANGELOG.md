@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.4.0](https://github.com/adriano-machado/base-next-app/compare/v0.3.0...v0.4.0) (2020-11-02)
+
+
+### ⚠ BREAKING CHANGES
+
+* **teste:** Feate2
+
+### Features
+
+* **teste:** teste - add line to feat ([a59a8b3](https://github.com/adriano-machado/base-next-app/commit/a59a8b3ea3616b610044489c7d4926fc82cc6a38))
+* **teste:** teste - add line to feat2 ([c656db5](https://github.com/adriano-machado/base-next-app/commit/c656db5e4e5a2f0a784876645e627fc03c07a9a9))
+
 ## [0.3.0](https://github.com/adriano-machado/base-next-app/compare/v0.2.2...v0.3.0) (2020-11-02)
 
 
