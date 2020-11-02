@@ -1,6 +1,6 @@
 {
   "name": "reactsetup",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "postinstall": "husky install",
@@ -11,7 +11,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-push":"yarn release",
+      "pre-push": "yarn release",
       "post-commit": "git push --follow-tags"
     }
   },
