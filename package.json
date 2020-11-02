@@ -11,12 +11,11 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "post-commit": "yarn release && git push --follow-tags"
+      "pre-push":"yarn release",
+      "post-commit": "git push --follow-tags"
     }
   },
   "dependencies": {
-
     "next": "^10.0.0",
     "next-images": "^1.4.1",
     "react": "16.13.1",
